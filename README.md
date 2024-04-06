@@ -5,7 +5,7 @@
 
 Here's a walkthrough of implemented application:
 
-![meteors](https://github.com/serny2020/funnyGame/tree/main/meteor.gif)
+![meteors](https://github.com/serny2020/funnyGame/blob/main/meteor.gif)
 
 
 ## Project 2: Matrix Digital Rain
@@ -18,7 +18,7 @@ Here's a walkthrough of implemented application:
 
 Here's a walkthrough of implemented application:
 
-![digitalRain](https://github.com/serny2020/funnyGame/tree/main/digitalRain.gif)
+![digitalRain](https://github.com/serny2020/funnyGame/blob/main/digitalRain.gif)
 
 
 
