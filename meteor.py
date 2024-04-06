@@ -10,9 +10,9 @@ def Meteors():
     tu.title("Meteors")
 
     t = tu.Pen()
-    t.hideturtle()
+    t.hideturtle() # hide the turtle
 
-    colors = ['pink', 'lightpink', 'deeppink']
+    colors = ['pink', 'lightpink', 'deeppink'] # define the color of meteors
     
     class Star():
         def __init__(self):
@@ -25,6 +25,7 @@ def Meteors():
             self.outline = 1
         
         def star(self):
+            # making stars
             t.pensize(self.outline)
             t.penup()
             t.goto(self.x, self.y)
@@ -56,7 +57,7 @@ def Meteors():
     
     Stars = []
     for i in range(100):
-        Stars.append(Star())
+        Stars.append(Star()) # arrays of star to get ready
 
     while True:
         tu.tracer(0)
