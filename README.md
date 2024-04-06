@@ -5,7 +5,7 @@
 
 Here's a walkthrough of implemented application:
 
-![](https://hackmd.io/_uploads/ry4AWfCyC.gif)
+![meteors](https://github.com/serny2020/funnyGame/tree/main/meteor.gif)
 
 
 ## Project 2: Matrix Digital Rain
@@ -18,9 +18,8 @@ Here's a walkthrough of implemented application:
 
 Here's a walkthrough of implemented application:
 
-![](https://hackmd.io/_uploads/SJ7zbGCJC.gif)
+![digitalRain](https://github.com/serny2020/funnyGame/tree/main/digitalRain.gif)
 
 
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
